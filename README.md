@@ -1,6 +1,6 @@
 <img align="right" width="110" src="https://cdn.jsdelivr.net/gh/qishibo/img/202109031653244.png">
 
-# Another Redis Desktop Manager 
+# Another Redis Desktop Manager 一款支持多语言、多平台的 redis 桌面管理工具。对比目前其它同类型工具，它拥有更丰富的功能、更高的稳定性和性能，支持集群等功能
 
 <hr/>
 
